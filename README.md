@@ -1,2 +1,5 @@
-# Sentiment-Analysis-of-Earnings-Call-Transcripts-using-BERT
-The goal of this project is to build a sentiment analysis model using BERT to determine if management sentiment expressed in earnings call transcripts is positive or negative by using a fine-tuned BERT model
+# Sentiment Analysis of Earnings Call Transcripts using FinBert
+
+Dataset link: https://www.kaggle.com/datasets/tpotterer/motley-fool-scraped-earnings-call-transcripts 
+
+![image](https://github.com/areegtarek/Sentiment-Analysis-of-Earnings-Call-Transcripts-using-BERT/assets/46351336/ffecef13-5ff3-4509-92df-7837f8c3850f)
